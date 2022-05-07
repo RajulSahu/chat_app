@@ -1,16 +1,21 @@
-# chat_app
+# 💬 chat_app
 
-A new Flutter project.
+This app is a simple chatting app developed from scratch using Flutter, users can register and login using their email and password, this app uses Firebase Authentication to authenticate users, and Cloud FireStore to store users messages.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## App Preview ⬇️
 
-A few resources to get you started if this is your first Flutter project:
+### User Registration
+<img src="https://user-images.githubusercontent.com/74370799/167266333-8a2801e0-59ba-4a1c-95a9-00350b1af9fd.gif" width="352" height="630">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### User Login
+<img src="https://user-images.githubusercontent.com/74370799/167264582-3574e104-63a7-4d53-8058-4d1df5ff0223.gif" width="352" height="630">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+⏬ [Download APK Here](https://google.com)
+
+
+
+
+
